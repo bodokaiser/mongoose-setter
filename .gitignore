@@ -1,0 +1,16 @@
+# meta files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# build files
+build
+
+# package files
+node_modules
+components
