@@ -29,11 +29,11 @@
   },
 
   "repository": {
-    "url": "git://github.com/bodokaiser/mongoose-setter.git"
+    "url": "git://github.com/satisfeet/mongoose-setter.git"
   },
 
   "bugs": {
-    "url": "https://github.com/bodokaiser/mongoose-setter/issues"
+    "url": "https://github.com/satisfeet/mongoose-setter/issues"
   }
 
 }
