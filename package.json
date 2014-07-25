@@ -6,7 +6,7 @@
 
   "license": "MIT",
 
-  "version": "1.0.0",
+  "version": "1.0.2",
 
   "keywords": [
     "mongoose",
@@ -29,11 +29,11 @@
   },
 
   "repository": {
-    "url": "git://github.com/satisfeet/mongoose-setter.git"
+    "url": "git://github.com/bodokaiser/mongoose-setter.git"
   },
 
   "bugs": {
-    "url": "https://github.com/satisfeet/mongoose-setter/issues"
+    "url": "https://github.com/bodokaiser/mongoose-setter/issues"
   }
 
 }
